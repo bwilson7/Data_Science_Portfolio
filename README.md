@@ -1,2 +1,2 @@
 # Thinkful_Capstone
-Projects and notebooks associated with my capstone project for the Thinkful Data Science program.
+Projects and notebooks associated with my capstone projects for Thinkful's Data Science program.
