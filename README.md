@@ -1,5 +1,11 @@
 # Portfolio Overview
 
+## Using NLP to Understand 60 Years of Congressional Addresses
+
+  Project Coming Soon....
+  
+Topics: NLP, word2vec, Unsupervised Learning, SGDClassifier, LogisticRegression, Spacy, nltk
+
 ## Craigslist Vehicle Pricing Models
   
   Craigslist has become a crucial part of the new and used vehicle markets in North America. It has become such an important marketplace that car dealerships have begun posting new and used vehicle adds on the website to gain exposure to users who want an uncomplicated approach to car shopping. With the predominant number of postings being from non-industry linked users, it could be considered a crowdsourced pricing model for new and used cars. By analyzing the prices and descriptive characteristics of the vehicles we can build predictive models for future sellers or buyers to understand what a 'good price' is for a vehicle.
