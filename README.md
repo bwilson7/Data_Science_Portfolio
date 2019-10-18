@@ -1,5 +1,12 @@
 # Portfolio Overview
 
+## Mountain Bike Trail Recommendation Engine
+
+Mountain biking should be about getting out of the house and riding, not combing through pages and pages of trails trying to decide how you want to spend your hard-earned free time. The goal of the project is to provide the user with 5-10 trails that are similar to trails that they have positively rated. The user will be given a prompt to specify a location for recommendations. Giving the user the choice to specify a location will allow them to plan a specific place to ride, or they could look at their top recommendations in the U.S. so that they could choose where they want to visit.
+
+Topics: Collaborative Filtering, Python, Scrapy, Sci-kit learn, Data Analysis, Data Mining, Product Development
+
+
 ## Using NLP to Understand 60 Years of Congressional Addresses
 
   Project Coming Soon....
