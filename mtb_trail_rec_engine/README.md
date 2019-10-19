@@ -15,17 +15,17 @@ The end result of the model would provide the user with a list of new trails in 
 ## Project Goals
 
 - Scrape trail data and ratings from trailforks.com U.S. trail region
--- Evaluate error log of broken trail links
+  - Evaluate error log of broken trail links
 - Data loading and preprocessing 
--- Breaking out location into separate columns
--- Fill na values were needed and check for duplicates
--- Cleaning of text columns
+  - Breaking out location into separate columns
+  - Fill na values were needed and check for duplicates
+  - Cleaning of text columns
 - EDA - build a picture of how trails are distributed across the country and what trail stats matter for their rating and total ride count
 - Feature Engineering - create additional features to better characterize the trails in the dataset
 - Modeling
--- Build and evaluate collaborative filtering and content based models
--- Evaluate recommendations and choose model type for production
--- Summarize future work and usability of the model in production
+  - Build and evaluate collaborative filtering and content based models
+  - Evaluate recommendations and choose model type for production
+  - Summarize future work and usability of the model in production
 
 ## Potential Problems
 
