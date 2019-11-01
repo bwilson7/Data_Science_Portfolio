@@ -15,7 +15,7 @@ The end result of the model would provide the user with a list of new trails in 
 ## Project Goals
 
 - Scrape trail data and ratings from trailforks.com U.S. trail region
-  - Evaluate error log of broken trail links
+  - Scraping done in three spiders due to data location and format
 - Data loading and preprocessing 
   - Breaking out location into separate columns
   - Fill na values were needed and check for duplicates
