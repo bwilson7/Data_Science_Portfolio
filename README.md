@@ -28,7 +28,7 @@ Topics: Python, NumPy, Pandas, SciPy, EDA, A/B testing, Statistical Analysis, Ge
 
 ## Are Sommelier Wine Ratings Representative of The Consumer's Opinions?
 
-  Sommelier’s wine ratings are sort of a black box. They are rated out of 100, and the normal wine drinker is unlikely to ever pick out the hints of fruit (other than grapes) or tobacco in their bottle. That begs the question of, why do we trust these reviews when buying a bottle of wine, when most people are looking for a good price and something that they can drink smoothly. This project explores wine ratings from different regions across the world and proposes an experiment that could verify the ratings of different wine varieties and the regions they come from.
+  Sommelier’s wine ratings are sort of a black box. They are rated out of 100, and the normal wine drinker is unlikely to ever pick out the hints of fruit (other than grapes) or tobacco in their bottle. That begs the question, why do we trust these reviews when buying a bottle of wine, when most people are looking for a good price and something that they can drink smoothly. This project explores wine ratings from different regions across the world and proposes an experiment that could verify the ratings of different wine varieties and the regions they come from.
 
 Topics: Python, NumPy, Pandas, SciPy, Seaborn, EDA, A/B testing, Statistical Analysis, Experimental Design
 
